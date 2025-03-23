@@ -1,4 +1,4 @@
-# User-Analysis
+# User_Opportunity Dataset
 
   ## Table Of Content
 
@@ -37,9 +37,12 @@ The dashboard addresses important questions such as:
 - How does user activity fluctuate?
 
 ### Results
+- India and Nigeria dominate, suggesting targeted engagement.
+- Popular opportunities include Data Visualization and Project Management.
+- Most sign-ups occur in June, with Fridays being the busiest day.
 
 
-### Recommdation
+### Recommendation
 
 Insights from the dashboard can guide strategic decisions such as:
 - Focusing resources on high-engagement regions like India and Nigeria.
